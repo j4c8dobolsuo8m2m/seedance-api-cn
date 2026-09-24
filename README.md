@@ -2,7 +2,7 @@
 
 > **Published unit prices, one OpenAI-compatible key**: image2.5 **$0.0085/image**, Seedance 2.0 Mini **$0.01056/second**, LLM input from **$0.0228 per million tokens**. $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-8fd871)** · **[Get an API key](https://go.apimart.ai/k-b463ca)**
 
 An **ai api gateway** (also written *ai-api-gateway*, *AI API relay* or 中转站 in Chinese) keeps one base URL and one key in front of 300+ models.
 
